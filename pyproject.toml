@@ -1,0 +1,28 @@
+[project]
+name = "tallbrachiosaurus"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "tallbrachiosaurus", email = "322250098+tallbrachiosaurusgh@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.maturin]
+module-name = "tallbrachiosaurus._core"
+python-packages = ["tallbrachiosaurus"]
+python-source = "src"
+
+[tool.uv]
+cache-keys = [{ file = "pyproject.toml" }, { file = "src/**/*.rs" }, { file = "Cargo.toml" }, { file = "Cargo.lock" }]
+
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
+
+[dependency-groups]
+dev = [
+    "maturin>=1.15.0",
+    "ziglang>=0.16.0",
+]

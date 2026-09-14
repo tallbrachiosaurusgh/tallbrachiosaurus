@@ -1,0 +1,14 @@
+/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/deps/pyo3_build_config-23da49a31409698e.d: /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config-file.txt /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config.txt
+
+/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/deps/libpyo3_build_config-23da49a31409698e.rlib: /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config-file.txt /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config.txt
+
+/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/deps/libpyo3_build_config-23da49a31409698e.rmeta: /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs /home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config-file.txt /home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config.txt
+
+/home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/lib.rs:
+/home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/errors.rs:
+/home/m_hillmon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.28.3/src/impl_.rs:
+/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config-file.txt:
+/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.28.3
+# env-dep:OUT_DIR=/home/m_hillmon/projects/CPE486/tallbrachiosaurus/target/release/build/pyo3-build-config-a7e0163be9cebdfd/out
